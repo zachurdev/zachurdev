@@ -7,4 +7,5 @@ Shell: Bash
 WM: i3
 Terminal: kitty
 Terminal Font: ComicShannsMono Nerd Font
+Editor: Vim
 ```
